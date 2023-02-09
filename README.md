@@ -1,5 +1,7 @@
 # <samp>&gt; Hi there, I'm <b>Pradipto</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradipto111&label=Profile%20views&color=0e75b6&style=flat" alt="shanmukh05" /> </p>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pradiptom/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/pradipto_m)
 [![Telegram Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/pradipto.mondal.374/)
